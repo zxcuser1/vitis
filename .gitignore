@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore build output directory
 /build
 /export
@@ -19,3 +20,28 @@
 
 _ide/logs
 _ide/.wsdata
+=======
+# Vitis generated component/output
+lab1_z1/
+
+# Vivado/Vitis temporary files
+.Xil/
+*.jou
+*.log
+*.str
+*.zip
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vitis IDE metadata
+.cache/
+_ide/
+compile_commands.json
+vitis-comp.json
+>>>>>>> origin/main
